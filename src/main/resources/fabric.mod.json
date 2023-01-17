@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "tpc",
+  "version": "${version}",
+
+  "name": "Totem Pop Counter",
+  "description": "Counts how many Totems the other player has popped.",
+  "authors": [
+    "rvye"
+  ],
+  "contact": {
+    "homepage": "https://github.com/rvye",
+    "sources": "https://github.com/rvye/TotemPopCounter"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.rvye.TotemPopCounter"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
