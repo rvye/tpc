@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Totem Pop Counter
 
-## Setup
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b86873f98ad4467c857bc04b95e0383a?style=for-the-badge)](https://www.codacy.com/gh/rvye/TotemPopCounter/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rvye/TotemPopCounter&amp;utm_campaign=Badge_Grade)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Shows the amount of totems you
+or another player have popped.
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
