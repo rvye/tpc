@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "tpc",
+  "id": "totempopcounter",
   "version": "${version}",
 
   "name": "Totem Pop Counter",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.rvye.TotemPopCounter"
+      "com.rvye.TotemPopCounter.PopCounter"
     ]
   },
   "mixins": [
